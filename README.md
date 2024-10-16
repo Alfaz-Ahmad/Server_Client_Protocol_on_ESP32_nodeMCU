@@ -45,7 +45,7 @@ Server_Client_Protocol_on_ESP32_nodeMCU/
 │
 ├── python_server/
 │   ├── server.py             # Python server code (Flask-based)
-│   └── requirements.txt      # Python dependencies
+│   └── sensor_data.csv      # Python data collected in csv file
 │
 ├── nodejs_server/
 │   ├── server.js             # Node.js server code (Express.js-based)
@@ -128,4 +128,4 @@ Server_Client_Protocol_on_ESP32_nodeMCU/
 - Store the data in a database (e.g., SQLite or MongoDB).
 - Visualize the sensor data in real-time on a web interface.
 
-  #-signing off!
+### -signing off!
