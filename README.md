@@ -128,6 +128,4 @@ Server_Client_Protocol_on_ESP32_nodeMCU/
 - Store the data in a database (e.g., SQLite or MongoDB).
 - Visualize the sensor data in real-time on a web interface.
 
-## License
-
-This project is licensed under the MIT License.
+  #-signing off!
